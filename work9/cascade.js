@@ -100,6 +100,6 @@ collegeSelect.onchange = function(){
     if(collegeSelect.value>=0){
         majorSelect.onchange()
     }else{
-        classSelect.onchange()
+        classSelect.options.length = 0
     }
 }
