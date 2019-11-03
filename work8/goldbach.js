@@ -6,7 +6,7 @@ function goldbach() {
     }
     let goldbach= document.getElementById('goldbach')
     let arr =[]
-    let a = 0;
+    let a = 0
     for(var i=2;i<=aaa;i++){
         a = 0
         for(var j=2;j<i;j++){
