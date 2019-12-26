@@ -53,4 +53,4 @@ app.post('/formBuilder', function (req, res) {
                       exec('xdg-open',[url]);
       }
     }
-    openDefaultBrowser('https://localhost:8080')
+    openDefaultBrowser('http://localhost:8080')
