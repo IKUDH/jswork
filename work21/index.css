@@ -1,7 +1,7 @@
 .title {
     text-align: center;
 }
-
+/*热点图样式*/
 .banner {
     position: relative;
     overflow: hidden;
@@ -25,7 +25,7 @@
 .hot li {
     float: left;
 }
-
+/*小圆点样式*/
 .dot {
     position: absolute;
     bottom: 10px;
@@ -48,7 +48,7 @@
 .dot .on {
     background-color: #fff;
 }
-
+/**左右翻页箭头样式*/
 .arrow {
     display: none;
 }
